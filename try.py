@@ -1,3 +1,3 @@
-nums = [1,2,3]
+s = "hallo"
 
-print(sum(nums))
+print(s.count("l"))
