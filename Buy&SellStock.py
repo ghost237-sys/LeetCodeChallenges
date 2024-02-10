@@ -12,5 +12,4 @@ def maxProfit(prices):
 
 
     
-print(maxProfit(prices))
-#another useless commit 
+print(maxProfit(prices)
